@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+# Configure Flask to run fresh_tomatoes in debug mode.
+export FLASK_APP=fresh_tomatoes
+export FLASK_DEBUG=1
+
+# Install fresh_tomatoes module in editable mode.
+pip install --upgrade --editable .
+
+# Initialize the database.
+flask initdb
+
+# Run the application.
+flask run

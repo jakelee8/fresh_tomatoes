@@ -1,0 +1,3 @@
+graft fresh_tomatoes/templates
+graft fresh_tomatoes/static
+include fresh_tomatoes/schema.sql

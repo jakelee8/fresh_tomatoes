@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+# Create or update the fresh_tomatoes environment.
+conda env create -f environment.yaml || conda env update -f environment.yaml
+
+# Activate the fresh_tomaties environment.
+source activate fresh_tomatoes

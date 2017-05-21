@@ -1,0 +1,37 @@
+movies:
+  - title: 'Finding Dory'
+    image_uri: 'https://i.ytimg.com/vi/fqNhnLkg-7U/movieposter.jpg'
+    embed_uri: 'https://www.youtube.com/embed/fqNhnLkg-7U'
+    release_date: 2016-06-17
+  - title: 'Zootopia'
+    image_uri: 'https://i.ytimg.com/vi/d4WEUn0yS74/movieposter.jpg'
+    embed_uri: 'https://www.youtube.com/embed/d4WEUn0yS74'
+    release_date: 2016-03-04
+  - title: 'The Secret Life of Pets'
+    image_uri: 'https://i.ytimg.com/vi/HdAAeM9jKpM/movieposter.jpg'
+    embed_uri: 'https://www.youtube.com/embed/HdAAeM9jKpM'
+    release_date: 2016-07-08
+  - title: 'Sing'
+    image_uri: 'https://i.ytimg.com/vi/4PVaa7CPdTw/movieposter.jpg'
+    embed_uri: 'https://www.youtube.com/embed/4PVaa7CPdTw'
+    release_date: 2016-12-21
+  - title: 'Storks'
+    image_uri: 'https://i.ytimg.com/vi/_AO5Da92e_0/movieposter.jpg'
+    embed_uri: 'https://www.youtube.com/embed/_AO5Da92e_0'
+    release_date: 2016-09-23
+  - title: 'Minions'
+    image_uri: 'https://i.ytimg.com/vi/bEwl_-EPtM4/movieposter.jpg'
+    embed_uri: 'https://www.youtube.com/embed/bEwl_-EPtM4'
+    release_date: 2015-07-10
+  - title: 'Despicable Me'
+    image_uri: 'https://i.ytimg.com/vi/zZcLxQRzg18/movieposter.jpg'
+    embed_uri: 'https://www.youtube.com/embed/zZcLxQRzg18'
+    release_date: 2010-07-09
+  - title: 'Despicable Me 2'
+    image_uri: 'https://i.ytimg.com/vi/n--xziesa9g/movieposter.jpg'
+    embed_uri: 'https://www.youtube.com/embed/n--xziesa9g'
+    release_date: 2013-07-03
+  - title: 'Penguins of Madagascar'
+    image_uri: 'https://i.ytimg.com/vi/yDufCq-0yms/movieposter.jpg'
+    embed_uri: 'https://www.youtube.com/embed/yDufCq-0yms'
+    release_date: 2014-11-26
